@@ -3,7 +3,7 @@
 
 A Video and Audio Sync for cheap capture cards you bought on Amazon
 
-## @@A .EXE VERSION IS COMING SOON [1-2 Weeks]@@
+## @@A .EXE VERSION IS COMING SOON@@
 
 ## 🧐 Features
 
