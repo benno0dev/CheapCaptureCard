@@ -3,8 +3,6 @@
 
 A Video and Audio Sync for cheap capture cards you bought on Amazon
 
-## @@A .EXE VERSION IS COMING SOON@@
-
 ## 🧐 Features
 
 Here're some of the project's best features:
